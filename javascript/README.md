@@ -142,6 +142,8 @@ List of free resources for learning JavaScript technologies
 
 [Node.js includes built-in support for .env files](https://philna.sh/blog/2023/09/05/nodejs-supports-dotenv/)
 
+[5 Node Version Managers Compared – Which is Right for You?](https://pavel-romanov.com/5-node-version-managers-compared-which-is-right-for-you)
+
 #### Miscellaneous
 
 [Refactoring node.js (Part 1)](https://dev.to/paulasantamaria/refactoring-node-js-part-1-42fe)
