@@ -1,3 +1,8 @@
+---
+title: DevOps
+description: List of free resources for learning DevOps technologies
+---
+
 # [Learny](../)
 
 List of free resources for learning DevOps technologies

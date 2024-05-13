@@ -1,3 +1,8 @@
+---
+title: Golang
+description: List of free resources for learning Golang technologies
+---
+
 # [Learny](../)
 
 List of free resources for learning Golang

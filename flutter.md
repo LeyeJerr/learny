@@ -1,3 +1,8 @@
+---
+title: Flutter
+description: List of free resources for learning Flutter technologies
+---
+
 # [Learny](../)
 
 List of free resources for learning Flutter

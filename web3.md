@@ -1,3 +1,8 @@
+---
+title: Web3
+description: List of free resources for learning Web3 technologies
+---
+
 # [Learny](../)
 
 List of free resources for learning Web3 technologies

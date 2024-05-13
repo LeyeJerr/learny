@@ -1,3 +1,8 @@
+---
+title: Security
+description: List of free resources for learning about security
+---
+
 # [Learny](../)
 
 List of free resources for learning about security

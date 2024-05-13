@@ -1,3 +1,8 @@
+---
+title: AI
+description: List of free resources for learning AI technologies
+---
+
 # [Learny](../)
 
 List of free resources for learning AI technologies

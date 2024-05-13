@@ -1,3 +1,8 @@
+---
+title: Data science
+description: List of free resources for learning data science
+---
+
 # [Learny](../)
 
 List of free resources for learning data science

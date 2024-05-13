@@ -1,3 +1,8 @@
+---
+title: Python
+description: List of free resources for learning Python technologies
+---
+
 # [Learny](../)
 
 List of free resources for learning Python technologies

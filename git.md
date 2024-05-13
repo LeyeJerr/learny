@@ -1,3 +1,8 @@
+---
+title: Git
+description: List of free resources for learning git
+---
+
 # [Learny](../)
 
 List of free resources for learning git
