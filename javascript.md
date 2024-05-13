@@ -1,3 +1,8 @@
+---
+title: JavaScript
+description: List of free resources for learning JavaScript technologies
+---
+
 # [Learny](../)
 
 List of free resources for learning JavaScript technologies
