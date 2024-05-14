@@ -221,6 +221,8 @@ List of free resources for learning JavaScript technologies
 
 [How to Use Versioning in NestJS](https://javascript.plainenglish.io/how-to-use-versioning-in-nestjs-45d7c413e72b)
 
+[NestJS boilerplate](https://sevic.dev/nestjs-starter)
+
 ### Fastify
 
 [Getting Started with Fastify for Node.js](https://blog.appsignal.com/2023/04/26/getting-started-with-fastify-for-nodejs.html)
@@ -376,6 +378,8 @@ List of free resources for learning JavaScript technologies
 ### Electron
 
 [How to Build Your First Desktop App with JavaScript Using Electron](https://medium.freecodecamp.org/how-to-build-your-first-app-with-electron-41ebdb796930)
+
+[Electron boilerplate](https://sevic.dev/electron-starter)
 
 ## Mobile apps
 
