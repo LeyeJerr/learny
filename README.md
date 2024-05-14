@@ -1,8 +1,3 @@
----
-title: Learny - Free resources for learning various technologies
-description: Learny - Free resources for learning various technologies
----
-
 # Learny
 
 Lists of free resources for learning various technologies
