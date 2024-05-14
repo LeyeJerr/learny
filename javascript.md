@@ -1,5 +1,5 @@
 ---
-title: JavaScript
+title: JavaScript - Free resources for learning
 description: List of free resources for learning JavaScript technologies
 ---
 

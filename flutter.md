@@ -1,5 +1,5 @@
 ---
-title: Flutter
+title: Flutter - Free resources for learning
 description: List of free resources for learning Flutter technologies
 ---
 

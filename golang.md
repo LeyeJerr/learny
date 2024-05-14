@@ -1,5 +1,5 @@
 ---
-title: Golang
+title: Golang - Free resources for learning
 description: List of free resources for learning Golang technologies
 ---
 

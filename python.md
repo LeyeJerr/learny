@@ -1,5 +1,5 @@
 ---
-title: Python
+title: Python - Free resources for learning
 description: List of free resources for learning Python technologies
 ---
 

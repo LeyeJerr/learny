@@ -1,5 +1,5 @@
 ---
-title: Security
+title: Security - Free resources for learning
 description: List of free resources for learning about security
 ---
 

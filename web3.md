@@ -1,5 +1,5 @@
 ---
-title: Web3
+title: Web3 - Free resources for learning
 description: List of free resources for learning Web3 technologies
 ---
 

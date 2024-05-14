@@ -1,5 +1,5 @@
 ---
-title: Data science
+title: Data science - Free resources for learning
 description: List of free resources for learning data science
 ---
 
