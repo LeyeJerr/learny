@@ -187,6 +187,8 @@ List of free resources for learning JavaScript technologies
 
 [Managing your Node.js installation](https://maxrozen.com/managing-your-node-installation)
 
+[A Comprehensive Guide to Node.js Addons](https://mertcan.vercel.app/comprehensive-guide-to-nodejs-addons)
+
 ### Deno
 
 [Deno 1.0](https://deno.land/v1)
@@ -210,6 +212,8 @@ List of free resources for learning JavaScript technologies
 ### Express.js
 
 [Learn Express](https://www.codecademy.com/learn/learn-express)
+
+[What's New in Express.js 5.0](https://www.trevorlasn.com/blog/whats-new-in-express-5)
 
 ### NestJS
 
