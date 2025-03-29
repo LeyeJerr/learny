@@ -1,5 +1,5 @@
 # Learny
-
+Hello my name is Jerry and I found a 
 Lists of free resources for learning various technologies
 
 - [artificial intelligence](./ai)
